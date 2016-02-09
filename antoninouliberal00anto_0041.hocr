@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "antoninouliberal00anto_0041.png"; bbox 0 0 2122 3643; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 297 684 1769 1062">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 297 684 1769 1062">
+     <span class='ocr_line' id='line_1_1' title="bbox 297 684 1656 796; baseline -0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 297 684 1656 796; x_wconf 67' lang='lat' dir='ltr'><strong>ANTQNINOT</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 539 853 1769 1062; baseline -0.003 -39"><span class='ocrx_word' id='word_1_2' title='bbox 539 934 1443 1062; x_wconf 68' lang='grc' dir='ltr'>ΛΙΒΕΡΑΛΙΣ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1631 853 1769 953; x_wconf 8' lang='lat'><strong>¹&gt;-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 139 1147 1820 1291">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 139 1147 1820 1291">
+     <span class='ocr_line' id='line_1_3' title="bbox 139 1147 1820 1291; baseline 0.002 -3"><span class='ocrx_word' id='word_1_4' title='bbox 139 1147 1820 1291; x_wconf 59' lang='lat' dir='ltr'><strong>METAMOPGJQEEQN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 765 1396 1153 1494">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 765 1396 1153 1494">
+     <span class='ocr_line' id='line_1_4' title="bbox 765 1396 1153 1494; baseline 0.003 -24"><span class='ocrx_word' id='word_1_5' title='bbox 765 1396 1153 1494; x_wconf 58' lang='grc' dir='ltr'>Συναγωγή.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 252 1815 1702 1959">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 252 1815 1702 1959">
+     <span class='ocr_line' id='line_1_5' title="bbox 252 1815 1702 1959; baseline 0.006 -8"><span class='ocrx_word' id='word_1_6' title='bbox 252 1870 940 1956; x_wconf 80' lang='lat' dir='ltr'>ANTONINI</span> <span class='ocrx_word' id='word_1_7' title='bbox 1001 1815 1702 1959; x_wconf 73' lang='lat' dir='ltr'><strong>LIBERALIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 138 2082 1803 2438">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 138 2082 1803 2438">
+     <span class='ocr_line' id='line_1_6' title="bbox 138 2082 1803 2207; baseline 0.006 -10"><span class='ocrx_word' id='word_1_8' title='bbox 138 2082 1803 2207; x_wconf 74' lang='lat' dir='ltr'><strong>TRANSFORMATIONUM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 755 2297 1525 2438; baseline -0.009 -29"><span class='ocrx_word' id='word_1_9' title='bbox 755 2325 1189 2438; x_wconf 51' lang='lat' dir='ltr'>congerie&amp;</span> <span class='ocrx_word' id='word_1_10' title='bbox 1521 2297 1525 2301; x_wconf 82' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
